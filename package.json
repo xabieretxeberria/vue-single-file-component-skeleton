@@ -1,5 +1,5 @@
 {
-  "name": "vue-single-page-component-skeleton",
+  "name": "vue-single-file-component-skeleton",
   "version": "1.0.0",
   "description": "Template for quick Vue component build & test",
   "keywords": [
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xabieretxeberria/vue-single-page-component-skeleton.git"
+    "url": "git+https://github.com/xabieretxeberria/vue-single-file-component-skeleton.git"
   },
   "author": "Xabi Etxeberria",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xabieretxeberria/vue-single-page-component-skeleton/issues"
+    "url": "https://github.com/xabieretxeberria/vue-single-file-component-skeleton/issues"
   },
-  "homepage": "https://github.com/xabieretxeberria/vue-single-page-component-skeleton#readme",
+  "homepage": "https://github.com/xabieretxeberria/vue-single-file-component-skeleton#readme",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
